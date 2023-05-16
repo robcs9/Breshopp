@@ -20,6 +20,10 @@ Aluska, Edilson, Everton, Joselinda, Robson, e Victória
 
 https://breshoppdemo.netlify.app
 
-**Repo da Demo:**
+**Repo do Site:**
 
 https://github.com/robcs9/breshoppdemo
+
+**Repo da API do Site:**
+
+https://github.com/robcs9/breshopp-api
