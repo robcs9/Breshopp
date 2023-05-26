@@ -24,6 +24,6 @@ https://breshoppdemo.netlify.app
 
 https://github.com/robcs9/breshoppdemo
 
-**Repo da API do Site:**
+**Repo do Backend do Site:**
 
 https://github.com/robcs9/breshopp-api
