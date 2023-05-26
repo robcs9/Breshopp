@@ -26,4 +26,4 @@ https://github.com/robcs9/breshoppdemo
 
 **Repo do Backend do Site:**
 
-https://github.com/robcs9/breshopp-api
+https://github.com/robcs9/breshopp-backend
