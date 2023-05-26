@@ -1,10 +1,6 @@
 # Breshopp
 Projeto de desenvolvimento de um marketplace de produtos usados.
 
-Site desenvolvido em Bootstrap 4.
-
-_Templates provided by Colorlib  (ogani) and AdminLTE  (v3)_
-
 ---
 **IFPE-JBG**
 
@@ -27,3 +23,6 @@ https://github.com/robcs9/breshoppdemo
 **Repo do Backend do Site:**
 
 https://github.com/robcs9/breshopp-backend
+
+---
+_Templates provided by Colorlib  (ogani) and AdminLTE  (v3)_
